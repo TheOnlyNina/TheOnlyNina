@@ -18,4 +18,4 @@ Here, you'll find some of my work in:
 
 ---
 
-💌 Always open to connecting with other learners, testers, and tech enthusiasts!  
+💡 Looking for more opportunities to learn, grow, and put my skills to practice!
