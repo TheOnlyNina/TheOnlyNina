@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🌸 Hi, I'm Imane! AKA Nina 🌸  
 
-<!--
-**TheOnlyNina/TheOnlyNina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **QA Tester** — still learning, growing, and improving every day!  
+📚 Completed: **LIVE Instructor Led Course: QA Automation Engineering with Java Selenium (Oct. 2024)** by [ExpertAutomationTeam](https://expertautomationteam.com/)  
+🌱 Learned my coding foundation thanks to [Codedex](https://www.codedex.io/) and [Coddy](https://coddy.tech/)  
+🎓 Mechanical Engineering degree with hands-on experience in the **Esports industry**  
+🖊 Currently improving my **documentation skills** for QA testing  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ My GitHub Showcases ✨  
+Here, you'll find some of my work in:  
+- 🛠 **Postman**  
+- 📊 **JMeter**  
+- 🥒 **Cucumber**  
+- 🖱 **Selenium** (Java)  
+- 🌐 **Rest Assured**  
+
+---
+
+💌 Always open to connecting with other learners, testers, and tech enthusiasts!  
