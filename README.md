@@ -17,6 +17,7 @@ Here, you'll find some of my work in:
 - 🌐 **Rest Assured**  
 - 🐍 **Visual Studio (Python)**  
 - 💜 **PySide6 & OpenAI**
+- ☕ **IntelliJ (Java GUI Projects)**
  
 
 ---
